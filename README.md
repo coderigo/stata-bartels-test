@@ -1,7 +1,7 @@
 ## Stata Bartels Test
 A Stata implementation of the Bartels Test for serial correlation.
 
-"The Rank Version of von Neuman's Ratio Test for Randomness". **Robert Bartels**, __Journal of the American Statistical Association, Vol. 77, No. 377 (Mar.,1982), pp. 40-46__
+See "The Rank Version of von Neuman's Ratio Test for Randomness". **Robert Bartels**, _Journal of the American Statistical Association_, Vol. 77, No. 377 (Mar.,1982), pp. 40-46
 
 ## Installation
 
